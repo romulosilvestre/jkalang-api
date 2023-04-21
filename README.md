@@ -44,13 +44,13 @@ _É importante conhecer o Git e GitHub, bem como realizar um curso básico de ve
 _Status: Em Desenvolvimento_ ⚠️
 * Esses emogis estão no link [Emogis](https://emojipedia.org/warning/)
 
-###### Requisitos Funcionais:
-
-###### Requisitos Não Funcionais:
-
-###### Casos de Uso:
-
-## Tecnologias Utilizadas:
+__Requisitos Funcionais:__
+xxx.xxx
+__Requisitos Não Funcionais:__
+xxx;xxx
+__Casos de Uso:__
+xxx.xxx
+__Tecnologias Utilizadas:__
 <table>
    <th>
       <td>Spring Framework</td>
@@ -64,7 +64,7 @@ _Status: Em Desenvolvimento_ ⚠️
    </tr>   
 </table>
 
-## Como deve executar esse projeto:
+__Como deve executar esse projeto:__
 xxx.xxxx
 
 
