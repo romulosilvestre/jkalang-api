@@ -1,7 +1,13 @@
-Um projeto de aulas particulares para atender alunos. Essa aula vai estar associada em um curso e este terá uma área de especialização. O projeto terá o valor da aula e datas para auxiliar a regra de negócio para calcular o valor das aulas e mostrar tanto para o aluno como para o  professor um controle das aulas e dos valores das aulas.
 
-Segue a modelagem conceitual do projeto:
-Segue conteúdo programático do treinamento:
+<h2>JKalang</h2>
+
+<p>Um projeto de aulas particulares para atender alunos. Essa aula vai estar associada em um curso e este terá uma área de especialização. O projeto terá o valor da aula e datas para auxiliar a regra de negócio para calcular o valor das aulas e mostrar tanto para o aluno como para o  professor um controle das aulas e dos valores das aulas.</p>
+
+Segue a modelagem conceitual do projeto:<br>
+
+![modelo relacional do projeto](imagens/ModeloRelacional.png)
+
+Segue conteúdo programático do treinamento:<br>
 
 Branch	Descrição<br>
 1	    Código Base no GitHub<br>
