@@ -40,4 +40,5 @@ _É importante conhecer o Git e GitHub, bem como realizar um curso básico de ve
 * Nesse link abaixo, você vai acessar um manual do markdown, para estudar como formatar o seu README.md 
 * [Manual do Markdown](https://docs.pipz.com/central-de-ajuda/learning-center/guia-basico-de-markdown#open)
 
-
+#### Branch 3 - Apresentando o Projeto
+_Status: Em Desenvolvimento_ ⚠️
