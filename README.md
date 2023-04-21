@@ -34,7 +34,7 @@ Branch	Descrição<br>
 
 # Branch 1 - Código Base no GitHub
 _O professor irá deixar o código base para o ínicio do treinamento_
-* É importante conhecer o Git e GitHub, bem como realizar um curso básico de versionamento *
+* É importante conhecer o Git e GitHub, bem como realizar um curso básico de versionamento 
 * Nesse link abaixo você possui o manual do markdown, para estudar sobre essa linguagem de formatação do seu README.md 
 * [Manual do Markdown](https://docs.pipz.com/central-de-ajuda/learning-center/guia-basico-de-markdown#open)
 
