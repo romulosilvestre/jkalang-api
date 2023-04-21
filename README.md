@@ -42,3 +42,5 @@ _É importante conhecer o Git e GitHub, bem como realizar um curso básico de ve
 
 #### Branch 3 - Apresentando o Projeto
 _Status: Em Desenvolvimento_ ⚠️
+* Esses emogis estão no link [Emogis](https://emojipedia.org/warning/)
+
