@@ -44,6 +44,28 @@ _É importante conhecer o Git e GitHub, bem como realizar um curso básico de ve
 _Status: Em Desenvolvimento_ ⚠️
 * Esses emogis estão no link [Emogis](https://emojipedia.org/warning/)
 
+__Rotas:__  <br>
+<table>
+   <tr>
+      <td>Rota</td>
+      <td>Método</td> 
+      <td>Descrição</td>     
+      <td>Requer autenticação</td>     
+   </tr>
+   <tr>
+      <td>/api/professores/{professor_id}</td>
+      <td>GET</td>
+      <td>Lista os professores</td>     
+      <td>Não</td>       
+   </tr>   
+     <tr>
+      <td>/api/professores/{professor_id}/alunos</td>
+      <td>POST</td>
+      <td>Detalhes do Professor</td>     
+      <td>Não</td>       
+   </tr> 
+</table>
+
 __Requisitos Funcionais:__ <br>
 xxx.xxx <br>
 __Requisitos Não Funcionais:__ <br>
