@@ -32,12 +32,12 @@ Branch	Descrição<br>
 20	    Excluir dados<br>
 21	    Deploy do Projeto<br>
 
-# Branch 1 - Código Base no GitHub
+#### Branch 1 - Código Base no GitHub
 _O professor irá deixar o código base para o ínicio do treinamento_
 
-# Branch 2 - Melhorando o seu README.d
+#### Branch 2 - Melhorando o seu README.d
 _É importante conhecer o Git e GitHub, bem como realizar um curso básico de versionamento_ 
-* Nesse link abaixo você possui o manual do markdown, para estudar sobre essa linguagem de formatação do seu README.md 
+* Nesse link abaixo, você vai acessar um manual do markdown, para estudar como formatar o seu README.md 
 * [Manual do Markdown](https://docs.pipz.com/central-de-ajuda/learning-center/guia-basico-de-markdown#open)
 
 
