@@ -4,9 +4,9 @@ info:
   description: API para gerenciamento de professores e aulas particulares
   version: 1.0.0
   contact:
-    name: TreinaWeb
-    url: https://www.treinaweb.com.br/contato
-    email: contato@treinaweb.com.br
+    name: Jkalang
+    url: https://www.edukacode.com.br
+    email: contato@edukacode.com.br
 servers:
   - url: http://localhost:8081
     description: Servidor local
