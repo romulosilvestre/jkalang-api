@@ -54,9 +54,11 @@ __Tecnologias Utilizadas:__  <br>
 <table>
    <tr>
       <td>Spring Framework</td>
-      <td>Java</td>          
+      <td>Java</td> 
+      <td>MySQL</td>         
    </tr>
    <tr>
+      <td>xx.xx</td>
       <td>xx.xx</td>
       <td>xx.xx</td>         
    </tr>   
