@@ -8,7 +8,7 @@
 		<version>3.0.0-SNAPSHOT</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>br.com.treinaweb</groupId>
+	<groupId>br.com.jkalang</groupId>
 	<artifactId>hyperprof</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>hyperprof</name>
