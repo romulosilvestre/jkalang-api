@@ -45,17 +45,17 @@ _Status: Em Desenvolvimento_ ⚠️
 * Esses emogis estão no link [Emogis](https://emojipedia.org/warning/)
 
 __Requisitos Funcionais:__ <br>
-xxx.xxx
+xxx.xxx <br>
 __Requisitos Não Funcionais:__ <br>
-xxx;xxx
+xxx;xxx <br>
 __Casos de Uso:__ <br>
-xxx.xxx
+xxx.xxx <br>
 __Tecnologias Utilizadas:__  <br>
 <table>
-   <th>
+   <tr>
       <td>Spring Framework</td>
       <td>Java</td>          
-   </th>
+   </tr>
    <tr>
       <td>xx.xx</td>
       <td>xx.xx</td>         
