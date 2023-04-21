@@ -44,3 +44,24 @@ _É importante conhecer o Git e GitHub, bem como realizar um curso básico de ve
 _Status: Em Desenvolvimento_ ⚠️
 * Esses emogis estão no link [Emogis](https://emojipedia.org/warning/)
 
+###### Requisitos Funcionais:
+
+###### Requisitos Não Funcionais:
+
+###### Casos de Uso:
+
+## Tecnologias Utilizadas:
+<table>
+   <th>
+      <td>Spring Framework</td>
+      <td>Java</td>
+      <td>MySQL</td>    
+   </th>
+   <tr>
+      <td>xx.xx</td>
+      <td>xx.xx</td>
+      <td>xx.xx</td>      
+   </tr>   
+</table>
+
+
