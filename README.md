@@ -64,4 +64,7 @@ _Status: Em Desenvolvimento_ ⚠️
    </tr>   
 </table>
 
+## Como deve executar esse projeto:
+xxx.xxxx
+
 
